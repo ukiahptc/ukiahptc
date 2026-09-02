@@ -18,8 +18,8 @@
 
 ## 📊 GitHub 통계
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=아이디&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ukiahptc&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukiahptc&layout=compact"/>
 </p>
 
 ## 📫 연락처
