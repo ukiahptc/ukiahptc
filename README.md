@@ -18,8 +18,11 @@
 
 ## 📊 GitHub 통계
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ukiahptc&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukiahptc&layout=compact"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ukiahptc&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukiahptc&theme=default"/>
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=ukiahptc"/>
 </p>
 
 ## 📫 연락처
